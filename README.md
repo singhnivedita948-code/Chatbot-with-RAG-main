@@ -130,4 +130,4 @@ User Query → Streamlit UI → Embeddings → Vector DB → Retriever → LLM (
 
 ## 👩‍💻 Author
 
-**Vidhika Rastogi**
+**Nivedita Singh**
